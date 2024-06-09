@@ -2,11 +2,12 @@
 Kodemorfi is a markup language inspired by Markdown.\
 There isn't a lot of features for now.
 # How to use
-Make a `main.km` file. In it, use these characters to start a sentence with proprieties:\
+Create a new file and call it `main.km`. In it, use these characters to start a sentence with proprieties:\
 **\\**: Escape character\
 **#**: Make a big text\
-**[size]**: Use custom text size (for example: [5] or [0.6]
-
+**[size]**: Use custom text size (for example: [5] or [0.6])\
+**-**: Use a separator
+***
 Then, execute Kodemorfi. If everything went right, you should see a `kodemorfi_output.html` file.\
 The output should look like this:
 ```plaintext
