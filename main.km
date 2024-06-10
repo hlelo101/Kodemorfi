@@ -3,8 +3,12 @@ This is a simple file for Kodemorfi
 [0.6]This is a small text
 And this is a normal text
 #Big text!
-And now a separator:
--
--This will not be computed as a separator, even tho the line starts with "-".
-
 [0.5]That's all there is... for now
+
+And now: a /b/bold\ word!
+Can you put /b/two\ bold /b/words\?
+And here is an /i/italic\ word.
+-
+Can you put other things
+And a /b/word\.
+You can also /u/underline\ words.
