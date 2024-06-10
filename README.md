@@ -7,7 +7,12 @@ Create a new file and call it `main.km`. In it, use these characters to start a 
 **\\**: Escape character\
 **#**: Make a big text\
 **[size]**: Use custom text size (for example: [5] or [0.6])\
-**-**: Use a separator
+**-**: Use a separator\
+You can put properties in a word like this: `/proprety/word\`. Here are the properties:\
+**b**: Bold word\
+**i**: Italic word\
+**u**: Underlined word\
+For example, to make the world `hello!` bold, you can use `/b/hello!\`.
 ***
 Then, execute Kodemorfi. If everything went right, you should see a `kodemorfi_output.html` file.\
 The output should look like this:
