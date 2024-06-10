@@ -1,4 +1,4 @@
-![Kodemorfi logo](Kodemorfi_logo.png)
+![Kodemorfi logo](kodemorfi_logo.png)
 # Kodemorfi
 Kodemorfi is a markup language inspired by Markdown.\
 There isn't a lot of features for now.
