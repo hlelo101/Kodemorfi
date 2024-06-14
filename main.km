@@ -12,3 +12,8 @@ And here is an /i/italic\ word.
 Can you put other things
 And a /b/word\.
 You can also /u/underline\ words.
+And now: |b|String custom syntax|!
+|b|Well hello| there
+I'm |i|testing some things|.
+But /u/remember\: you can |u|underline a whole sentence|.
+And now that's an escaped custom syntax string: \|b|This will not be computed|.
