@@ -14,7 +14,7 @@ You can put properties in a word like this: `/proprety/word\`. Here are the prop
 **u**: Underlined word\
 For example, to make the world `hello!` bold, you can input `/b/hello!\`.\
 If you want to apply a propretie to more than 1 word at the time, you can use `|proprety|The sentence|`. The propreties are the same as for a single word (**b** for **b**old, **i** for **i**talic, and **u** to **u**nderline).\
-For example, you can make the string `This will be bold` by inputing `|b|This will be bold|`.
+For example, you can make the string `This will be bold` bold by inputing `|b|This will be bold|`.
 
 You can see more examples in the [main.km](main.km) example file.
 ***
