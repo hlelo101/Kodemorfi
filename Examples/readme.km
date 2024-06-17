@@ -1,0 +1,42 @@
+[3] /b/Kodemorfi\
+[0.7]Another demo
+-
+#What's this file?
+This file is a reconstruction of the /b/readme.md\ file in this repository.
+Enjoy, I guess...
+/b/Wait!\ : Don't forget to rename this file to /u/main.km\ before executing Kodemorfi to turn it into HTML.
+-
+#Kodemorfi
+Kodemorfi is a markup language inspired by Markdown.
+There isn't a lot of features for now.
+#How to use
+Create a new file and call it /u/main.km\. In it, use these characters to start a sentence with proprieties:
+\: Escape character
+\#: Make a big text
+[size]: Use custom text size (for example: [5] or [0.6])
+-: Use a separator
+You can put properties in a word like this: /u//proprety/word\\. Here are the properties:
+b: Bold word
+i: Italic word
+u: Underlined word
+For example, to make the world hello! bold, you can input /b/hello!\.
+If you want to apply a propretie to more than 1 word at the time, you can use |proprety|The sentence|. The propreties are the same as for a single word (b for bold, i for italic, and u to underline).
+For example, you can make the string This will be bold by inputing |b|This will be bold|.
+
+You can see more examples in the main.km example file.
+-
+Then, execute Kodemorfi. If everything went right, you should see a /u/kodemorfi_output.html\ file.
+The output should look like this:
+-
+Kodemorfi vD-8.06.24
+Reading file... Done
+Line 1: Big text. Computing... Done
+Line 3: Custom size text. Computing... Done
+Line 5: Big text. Computing... Done
+Line 6: Custom size text. Computing... Done
+HTML:
+|i|This is supposed to be HTML, but it would be rendered...|
+-
+See the example file to see how the propreties can be used.
+
+[0.7] |i|Made with Kodemorfi vP-14.06.24, if the latest release is a newer version than this, that may mean that new features are out.|
