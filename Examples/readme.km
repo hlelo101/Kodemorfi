@@ -20,7 +20,7 @@ b: Bold word
 i: Italic word
 u: Underlined word
 For example, to make the world hello! bold, you can input /b/hello!\.
-If you want to apply a propretie to more than 1 word at the time, you can use |proprety|The sentence|. The propreties are the same as for a single word (b for bold, i for italic, and u to underline).
+If you want to apply a propretie to more than 1 word at the time, you can use \|proprety|The sentence|. The propreties are the same as for a single word (b for bold, i for italic, and u to underline).
 For example, you can make the string This will be bold by inputing |b|This will be bold|.
 
 You can see more examples in the main.km example file.
