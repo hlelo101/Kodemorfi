@@ -19,7 +19,7 @@ For example, you can make the string `This will be bold` by inputing `|b|This wi
 You can see more examples in the [main.km](main.km) example file.
 ***
 Then, execute Kodemorfi. If everything went right, you should see a `kodemorfi_output.html` file.\
-The output should look like this:
+The output (on the terminal/console/shell/whatever) should look like this:
 ```plaintext
 Kodemorfi vD-8.06.24
 Reading file... Done
