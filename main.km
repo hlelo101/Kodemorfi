@@ -17,3 +17,4 @@ And now: |b|String custom syntax|!
 I'm |i|testing some things|.
 But /u/remember\: you can |u|underline a whole sentence|.
 And now that's an escaped custom syntax string: \|b|This will not be computed|.
+!img"theWholeCode.png"
